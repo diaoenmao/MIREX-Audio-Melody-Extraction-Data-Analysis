@@ -1,0 +1,6 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+AB1,0.6884,0.695,0.7294,0.7924,0.2248,"Laxmidhar Behera, Vipul Arora"
+SM1,0.6557,0.7032,0.7402,0.818,0.3785,Sam Myer
+YJL3V2,0.5177,0.8019,0.8255,1,0.9978,"I-Bin Liao, Jyh-Shing Roger Jang, Tzu-chun Yeh"
+YJL3V3,0.5177,0.8019,0.8255,1,0.9978,"I-Bin Liao, Jyh-Shing Roger Jang, Tzu-chun Yeh"
+YJL4,0.5419,0.8387,0.8537,1,1,"I-Bin Liao, Jyh-Shing Roger Jang, Tzu-chun Yeh"

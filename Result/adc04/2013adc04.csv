@@ -1,0 +1,5 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+CF1,0.6669,0.7479,0.7892,0.6363,0.1035,"Chris Cannam chris.cannam@eecs.qmul.ac.uk, Luis Figueira luis.figueira@eecs.qmul.ac.uk"
+SL1,0.5758,0.566,0.6087,0.7931,0.3132,"Liming Song lmsong86@gmail.com, Ming Li liming@mail.ioa.ac.cn"
+YJ3,0.4154,0.4832,0.599,0.9996,0.9537,"Tzu-chun Yeh kenshin.yeh@mirlab.org, Jyh-Shing Roger Jang jang@mirlab.org"
+YJ4,0.4624,0.5587,0.6671,0.9998,0.9776,"Tzu-chun Yeh kenshin.yeh@mirlab.org, Jyh-Shing Roger Jang jang@mirlab.org"

@@ -1,0 +1,9 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+CWJ3,0.5826,0.6251,0.66,0.661,0.2298,"Yu-Ren Chien,?Hsin-Min Wang,?Shyh-Kang Jeng"
+DD1,0.6371,0.6203,0.6891,0.827,0.3336,doreso doreso
+IYI1,0.6085,0.6766,0.7507,0.855,0.4213,"Yukara Ikemiya,?Kazuyoshi Yoshii,?Katsutoshi Itoyama"
+KD1,0.715,0.7703,0.8061,0.8311,0.3,Karin Dressler
+KD3,0.7484,0.7644,0.8086,0.8717,0.3264,Karin Dressler
+LPSL1,0.3494,0.3514,0.4322,0.6796,0.4475,"Hye In Lee,?Ju Hyun Park,?Ji Hun Seo,?Seok Pil Lee"
+SL1,0.5544,0.5155,0.5809,0.7543,0.2983,"Liming Song,?Ming Li"
+YJ2,0.5187,0.6912,0.7472,1,1,"Tzu-Chun Yeh,?Jyh-Shing Roger Jang"

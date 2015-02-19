@@ -1,0 +1,11 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+CWJ1,0.5665,0.5992,0.6567,0.879,0.5253,"Yu-Ren Chien, Hsin-Min Wang, Shyh-Kang Jeng"
+HCCPH1,0.4545,0.41,0.4856,0.5646,0.2866,"Stacy Hsueh, Bob Coover, Ching-Wei Chen, Phillip Popp, Jinyu Han, Brian Pardo"
+LYRS1,0.5872,0.7537,0.7938,0.9942,0.9387,"Wei-Hsiang Liao, Chunghsin YEH, Axel Roebel, Wen Yu Su"
+PJY1,0.6544,0.7328,0.7783,0.8555,0.3903,"Sanghun Park, Seokhwan Jo, Chang D. Yoo"
+SG1,0.6573,0.6762,0.7624,0.7725,0.263,"Justin Salamon, Emilia G¨®mez"
+SG2,0.6758,0.6982,0.7689,0.7756,0.2388,"Justin Salamon, Emilia G¨®mez"
+TOS1,0.5657,0.7113,0.7729,0.7721,0.4294,"Hideyuki Tachibana, Takuma Ono, Nobutaka Ono, Shigeki Sagayama"
+TY3,0.5073,0.6755,0.7316,0.9985,0.9969,Tzu-Chun Yeh
+TY4,0.508,0.6765,0.7331,0.9985,0.9969,Tzu-Chun Yeh
+YSLP1,0.6524,0.7011,0.7323,0.9178,0.5645,"Jea-Yul Yoon, Chai-Jong Song, Seok-Pil Lee, Hochong Park"

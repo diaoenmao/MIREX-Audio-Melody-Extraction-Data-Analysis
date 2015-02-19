@@ -1,0 +1,13 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+cl1,0.7659,0.8507,0.8635,0.9563,0.6928,"Chuan Cao, Ming Li"
+cl2,0.7540,0.8507,0.8635,0.8643,0.4616,"Chuan Cao, Ming Li"
+dr1,0.7569,0.8140,0.8344,0.9034,0.4120,"Jean-Louis Durrieu, Gael Richard, Bertrand David (GSMM)"
+dr2,0.7469,0.8118,0.8360,0.8418,0.2664,"Jean-Louis Durrieu, Gael Richard, Bertrand David (SIMM)"
+hjc1,0.4740,0.6386,0.7361,0.4573,0.1726,"Chao-Ling Hsu, Jyh-Shing Roger Jang, Liang-Yu Chen (DP)"
+hjc2,0.4460,0.5049,0.6488,0.4573,0.1726,"Chao-Ling Hsu, Jyh-Shing Roger Jang, Liang-Yu Chen (HMM)"
+jjy,0.7511,0.8326,0.8699,0.8676,0.3585,"Sihyun Joo, Seokhwan Jo, Chang D. Yoo"
+kd,0.8630,0.8711,0.8762,0.9163,0.1578,Karin Dressler
+mw,0.7082,0.8225,0.8640,0.9994,0.9383,Morten Wendelboe
+pc,0.8250,0.8286,0.8340,0.8464,0.1550,Pablo Cancela
+rr,0.7074,0.7688,0.8509,0.9200,0.4795,"Vishweshwara Rao,Preeti Rao"
+toos,0.5249,0.6103,0.7178,0.9991,0.9318,"Hideyuki Tachibana, Takuma Ono, Nobutaka Ono, Shigeki Sagayama"

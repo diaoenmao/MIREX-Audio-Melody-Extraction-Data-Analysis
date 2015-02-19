@@ -1,0 +1,6 @@
+*Algorithm,Overall Accuracy,Raw Pitch Accuracy,Raw Chroma Accuracy,Voicing Recall Rate,Voicing False-Alarm Rate,Author
+HJ1,0.6293,0.7254,0.7424,0.6422,0.1317,"Chao-Ling Hsu, Jyh-Shing Roger Jang"
+JJY1,0.4728,0.6611,0.7035,0.9883,0.8546,"Sihyun Joo, Seokhwan Jo, Chang D. Yoo"
+JJY2,0.4667,0.6465,0.6951,0.9879,0.8539,"Sihyun Joo, Seokhwan Jo, Chang D. Yoo"
+SG1,0.5813,0.6194,0.6985,0.8226,0.39,"Justin Salamon, Emilia Gomez"
+TOOS1,0.6349,0.7549,0.7921,0.9127,0.4743,"Hideyuki Tachibana, Takuma Ono, Nobutaka Ono, Shigeki Sagayama"
